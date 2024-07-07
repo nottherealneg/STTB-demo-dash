@@ -2,6 +2,9 @@
 
 This project is a Streamlit-based monitoring dashboard for Solar Tabesh Tavan BNL (STTB) Company. It provides real-time visualization and analysis of solar power plant data, weather information, and key performance indicators.
 
+## You can view the deployed version of this app at:
+https://sttb-pvmonitoring.streamlit.app/
+
 ## Features
 
 - Interactive data visualization for solar power plant metrics
